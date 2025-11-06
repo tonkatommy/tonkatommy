@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A18,50:FACC15,100:2BB673&height=160&section=header&text=Tommy%20Gordon&fontSize=56&fontColor=161B22&fontAlign=30&fontAlignY=65&desc=Automation-focused%20Full-Stack%20Engineer&descAlign=70&descAlignY=85&animation=fadeIn" alt="Tommy Gordon hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A18,50:FACC15,100:2BB673&height=160&section=header&text=Tommy%20Goodman&fontSize=56&fontColor=161B22&fontAlign=30&fontAlignY=65&desc=Automation-focused%20Full-Stack%20Engineer&descAlign=70&descAlignY=85&animation=fadeIn" alt="Tommy Goodman hero banner" />
 </div>
 
 <p align="center">
