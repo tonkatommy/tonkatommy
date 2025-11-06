@@ -1,89 +1,125 @@
-## Hi there 👋 I'm Tommy (tonkatommy)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A18,50:FACC15,100:2BB673&height=160&section=header&text=Tommy%20Goodman&fontSize=56&fontColor=161B22&fontAlign=30&fontAlignY=65&desc=Automation-focused%20Full-Stack%20Engineer&descAlign=70&descAlignY=85&animation=fadeIn" alt="Tommy Goodman hero banner" />
+</div>
 
-Welcome - I build things that bridge ideas and production. I’m a full-stack-minded engineer with a focus on clean code, automation, and delightful developer experiences.
-
----
-
-<!--
-Notes:
-- I created this README based on repositories in the workspace (e.g. projects like Visitor-Register, Covid-Vaccine-Tracker, mission work and automation scripts).
-- Edit any section below to better reflect your personal details, links, or pronouns.
--->
-
-### Techstack
-
-<!-- Languages & skills badges (shields.io) -->
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![Bash](https://img.shields.io/badge/Shell-BE1E2D?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-
-[![Automation](https://img.shields.io/badge/Automation-GitHub%20Actions-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/actions)
-[![Testing](https://img.shields.io/badge/Testing-Jest-yellow?style=for-the-badge&logo=jest&logoColor=black)](https://jestjs.io/)
-
----
-
-### Tech Identity
-
-- Full-stack developer & learner — I work across JS/Node, Java, and tooling for automation and desktop apps.
-- Currently studying and building projects in web and application domains (course materials and mission projects live in this workspace).
-- I like clean code, practical tests, and small, well-documented utilities.
-
----
-
-### GitHub stats
-
-<!-- Live GitHub stats cards (github-readme-stats & streaks). These images update automatically. -->
-<p align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=tonkatommy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Tommy's GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonkatommy&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="left">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=tonkatommy&theme=tokyonight" alt="GitHub streak stats" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=tonkatommy">
+    <img src="https://komarev.com/ghpvc/?username=tonkatommy&label=Profile+Views&color=FB923C&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/tonkatommy?tab=followers">
+    <img src="https://img.shields.io/github/followers/tonkatommy?style=flat-square&color=FACC15&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://metrics.lecoq.io/tonkatommy">
+    <img src="https://img.shields.io/badge/Dashboards-Metrics-22C55E?style=flat-square&logo=github" alt="Metrics dashboard" />
+  </a>
 </p>
 
 ---
 
-### Get in touch
+### ⚡ TL;DR
+- Based in **Helensville, NZ**, crafting automation-first experiences across the stack.
+- Builder of mission-driven products that bridge ideas with production-ready execution.
+- I obsess over developer ergonomics, resilient delivery pipelines, and high-velocity feedback loops.
 
-- GitHub: https://github.com/tonkatommy
-- Email: tommy@tommytinkers.nz <!-- replace with your preferred contact -->
-- LinkedIn: https://www.linkedin.com/in/tgnz
+### 🌐 In the wild
+<p>
+  <a href="https://tommytinkers.nz"><img src="https://img.shields.io/badge/tommytinkers.nz-orange?style=for-the-badge&logo=firefox&logoColor=white&color=FB923C" alt="TommyTinkers" /></a>
+  <a href="https://tommyg.me"><img src="https://img.shields.io/badge/tommyg.me-sunshine?style=for-the-badge&logo=safari&logoColor=white&color=FACC15" alt="TommyG Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tgnz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tommy@tommytinkers.nz"><img src="https://img.shields.io/badge/Email-hello@tommytinkers.nz-0f172a?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email Tommy" /></a>
+</p>
 
 ---
 
-### Fun facts
+### 🚀 Mission Ready spotlights
+<table>
+  <tr>
+    <td>
+      <h4><a href="https://github.com/tonkatommy/Visitor-Register">Visitor-Register</a></h4>
+      <p>Streamlined event/venue visitor intake with automated exports, privacy tooling, and rapid deployments.</p>
+      <img src="https://img.shields.io/badge/Focus-Automation-FF7A18?style=flat-square" alt="Automation" />
+    </td>
+    <td>
+      <h4><a href="https://github.com/tonkatommy/Covid-Vaccine-Tracker">Covid-Vaccine-Tracker</a></h4>
+      <p>Data-forward dashboarding with scheduled scrapers and accessible reporting for high-demand stakeholders.</p>
+      <img src="https://img.shields.io/badge/Focus-Data%20Pipelines-FACC15?style=flat-square" alt="Data pipelines" />
+    </td>
+    <td>
+      <h4><a href="https://github.com/tonkatommy?tab=repositories&q=mission">Mission Ready Playbook</a></h4>
+      <p>Reusable CI/CD blueprints, IaC snippets, and scripting utilities that accelerate every mission-ready engagement.</p>
+      <img src="https://img.shields.io/badge/Focus-DevOps-22C55E?style=flat-square" alt="DevOps" />
+    </td>
+  </tr>
+</table>
 
-- I've worked across course missions, desktop packaging, and server automation.
-- I keep a small collection of demo projects that are great for learning new tools.
+> 💡 Curious about how these were delivered? Each repo includes automated workflows, environment-ready configs, and notes on the mission objectives.
 
 ---
 
-_The End_
+### 🧰 Automation toolkit
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-FF7A18?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-FACC15?style=for-the-badge&logo=typescript&logoColor=111827" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=111827" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-16a34a?style=for-the-badge&logo=react&logoColor=FDF4FF" alt="React" />
+  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=java&logoColor=FACC15" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=FACC15" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-15803d?style=for-the-badge&logo=postgresql&logoColor=F8FAFC" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=FACC15" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-334155?style=for-the-badge&logo=githubactions&logoColor=22C55E" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Playwright-FF7A18?style=for-the-badge&logo=playwright&logoColor=0f172a" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Terraform-7c3aed?style=for-the-badge&logo=terraform&logoColor=FACC15" alt="Terraform" />
+</p>
 
-<!-- ---
+<details>
+  <summary><strong>Automation north star</strong></summary>
+  <ul>
+    <li>Design for observability from the first commit.</li>
+    <li>Lean into test-driven automation and self-documenting pipelines.</li>
+    <li>Ship in small, reviewable slices with fast feedback loops.</li>
+  </ul>
+</details>
 
-If you'd like, I can:
+---
 
-- Add a short badge section (languages, top projects).
-- Insert dynamic GitHub stats (cards showing languages & streaks).
-- Create a Projects index with links and short descriptions for each repo in this workspace.
+### 📊 Dynamic dashboards
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonkatommy&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FACC15&text_color=F8FAFC&icon_color=22C55E" alt="Tommy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonkatommy&layout=compact&bg_color=0d1117&title_color=FB923C&text_color=E2E8F0" alt="Top languages" />
+</p>
 
-Tell me which of the above you'd like next and I'll update this README accordingly. -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonkatommy&background=0D1117&sideNums=F8FAFC&currStreakLabel=22C55E&sideLabels=FACC15&currStreakNum=FB923C&dates=94a3b8" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonkatommy&bg_color=0d1117&color=facc15&line=34d399&point=fb923c&area=true" alt="Contribution activity graph" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonkatommy&theme=2077" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonkatommy&theme=2077" alt="Productive time" />
+</p>
+
+---
+
+### 🛠️ Build log
+- 🔁 Actively building automation accelerators, mission-ready tooling, and front-to-back product slices.
+- 🗂️ Cataloging reusable CI/CD templates and observability glue code across repos.
+- 🧭 Exploring how AI-assisted code reviews can safeguard velocity without sacrificing quality.
+
+---
+
+### 🌱 Beyond the keyboard
+I recharge with coastal adventures, Aotearoa bush walks, bike rides, 1/10th RC car racing, snowboarding, and time with my partner, kids, and very good dog.
+
+---
+
+### 🤝 Let's collaborate
+<p>
+  <a href="https://github.com/tonkatommy"><img src="https://img.shields.io/badge/GitHub-@tonkatommy-0d1117?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/tgnz/"><img src="https://img.shields.io/badge/LinkedIn-tgnz-0d1117?style=for-the-badge&logo=linkedin&logoColor=FACC15" alt="LinkedIn" /></a>
+  <a href="https://cal.com/tonkatommy"><img src="https://img.shields.io/badge/Book%20time-Cal.com-0d1117?style=for-the-badge&logo=google-calendar&logoColor=FB923C" alt="Cal.com" /></a>
+</p>
+
+> "Automation isn't about replacing people — it's about freeing us to focus on the experiences that matter."
