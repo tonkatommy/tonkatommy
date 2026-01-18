@@ -1,3 +1,5 @@
+# Hi, I’m Tommy! 👋
+
 <!--
   MRHQ Personal Branding README
   - Replace all occurrences of YOUR_USERNAME with your GitHub username
@@ -5,12 +7,7 @@
   - For the GitHub contribution snake you may need to add the generated SVG to your repo or use a service
 -->
 
-<!-- Header image (placeholder) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Your+Brand+Header+Image+Placeholder" alt="Header Image" width="100%" style="max-width:1200px; border-radius:12px;"/>
-</p>
-
-# Hi, I’m Tommy! 👋
+![Header Image](https://via.placeholder.com/1200x300.png?text=Your+Brand+Header+Image+Placeholder)
 
 Welcome - I build things that bridge ideas and production. I’m a full-stack-minded engineer with a focus on clean code, automation, and delightful developer experiences.
 
@@ -29,16 +26,14 @@ I thrive where product meets infrastructure — shipping reliable features fast 
 ## Tech Stack
 
 <!-- Replace or reorder the badges to match your stack -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Framework-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="Postgres" />
-  <img src="https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
-</p>
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Framework-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Postgres](https://img.shields.io/badge/DB-PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
@@ -46,21 +41,15 @@ I thrive where product meets infrastructure — shipping reliable features fast 
 
  <!-- Tip: replace YOUR_USERNAME with your GitHub username in the URLs below to make the cards work. -->
 
-<p align="left">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonkatommy&layout=compact&theme=radical" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonkatommy&layout=compact&theme=radical)
 
-  <!-- General stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tonkatommy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonkatommy&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ## GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=tonkatommy&theme=onedark&column=5" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tonkatommy&theme=onedark&column=5)
 
 ---
 
@@ -70,21 +59,15 @@ The contributions-snake is a fun animated way to show your commit activity. You 
 
 Example (replace YOUR_USERNAME or the path as needed):
 
-<p align="center">
-  <!-- If you generate and commit the snake SVG to your repo, point the src to it -->
-  <img src="https://raw.githubusercontent.com/tonkatommy/tonkatommy/master/contribution-snake.svg" alt="GitHub Contributions Snake" />
-</p>
+![GitHub Contributions Snake](https://raw.githubusercontent.com/tonkatommy/tonkatommy/master/contribution-snake.svg)
 
 ---
 
 ## Socials
 
-<p align="left">
-  <a href="https://github.com/tonkatommy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@tonkatommy-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://twitter.com/iamtonkatommy"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tgnz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tommysdevelopment"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40you-7A0FDF?style=for-the-badge&logo=envelope&logoColor=white"/></a>
-</p>
+| [![GitHub](https://img.shields.io/badge/GitHub-@tonkatommy-181717?style=for-the-badge&logo=github)](https://github.com/tonkatommy) | [![Twitter](https://img.shields.io/badge/Twitter-@YOUR_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamtonkatommy) |
+| --- | --- |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tgnz/) | [![Email](https://img.shields.io/badge/Email-hello%40you-7A0FDF?style=for-the-badge&logo=envelope&logoColor=white)](mailto:tommysdevelopment) |
 
 ---
 
