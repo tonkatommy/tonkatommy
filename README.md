@@ -35,17 +35,11 @@
 
 ## 🧰 Automation toolkit
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FF7A18?style=for-the-badge&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-FACC15?style=for-the-badge&logo=typescript&logoColor=111827)
-![Node.js](https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=111827)
-![React](https://img.shields.io/badge/React-16a34a?style=for-the-badge&logo=react&logoColor=FDF4FF)
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=java&logoColor=FACC15)
-![Python](https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=FACC15)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15803d?style=for-the-badge&logo=postgresql&logoColor=F8FAFC)
-![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=FACC15)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-334155?style=for-the-badge&logo=githubactions&logoColor=22C55E)
-![Playwright](https://img.shields.io/badge/Playwright-FF7A18?style=for-the-badge&logo=playwright&logoColor=0f172a)
-![Terraform](https://img.shields.io/badge/Terraform-7c3aed?style=for-the-badge&logo=terraform&logoColor=FACC15)
+| Category | Stack |
+| --- | --- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-FF7A18?style=for-the-badge&logo=javascript&logoColor=111827) ![TypeScript](https://img.shields.io/badge/TypeScript-FACC15?style=for-the-badge&logo=typescript&logoColor=111827) ![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=java&logoColor=FACC15) ![Python](https://img.shields.io/badge/Python-0f766e?style=for-the-badge&logo=python&logoColor=FACC15) |
+| **Frontend & Backend** | ![React](https://img.shields.io/badge/React-16a34a?style=for-the-badge&logo=react&logoColor=FDF4FF) ![Node.js](https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=111827) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15803d?style=for-the-badge&logo=postgresql&logoColor=F8FAFC) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=FACC15) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-334155?style=for-the-badge&logo=githubactions&logoColor=22C55E) ![Terraform](https://img.shields.io/badge/Terraform-7c3aed?style=for-the-badge&logo=terraform&logoColor=FACC15) ![Playwright](https://img.shields.io/badge/Playwright-FF7A18?style=for-the-badge&logo=playwright&logoColor=0f172a) |
 
 ### Automation north star
 
