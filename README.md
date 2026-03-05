@@ -57,15 +57,25 @@
 
 ## 📊 Dynamic dashboards
 
-![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonkatommy&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FACC15&text_color=F8FAFC&icon_color=22C55E)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonkatommy&layout=compact&bg_color=0d1117&title_color=FB923C&text_color=E2E8F0)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=tonkatommy&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FACC15&text_color=F8FAFC&icon_color=22C55E" alt="Tommy's GitHub stats" loading="lazy" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonkatommy&layout=compact&bg_color=0d1117&title_color=FB923C&text_color=E2E8F0" alt="Top languages" loading="lazy" /></td>
+  </tr>
+</table>
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=tonkatommy&background=0D1117&sideNums=F8FAFC&currStreakLabel=22C55E&sideLabels=FACC15&currStreakNum=FB923C&dates=94a3b8)
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=tonkatommy&background=0D1117&sideNums=F8FAFC&currStreakLabel=22C55E&sideLabels=FACC15&currStreakNum=FB923C&dates=94a3b8" alt="GitHub streak" loading="lazy" />
+</p>
 
-![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonkatommy&bg_color=0d1117&color=facc15&line=34d399&point=fb923c&area=true)
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonkatommy&bg_color=0d1117&color=facc15&line=34d399&point=fb923c&area=true" alt="Contribution activity graph" loading="lazy" />
+</p>
 
-![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonkatommy&theme=2077)
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonkatommy&theme=2077)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonkatommy&theme=2077" alt="Profile summary" loading="lazy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonkatommy&theme=2077" alt="Productive time" loading="lazy" />
+</p>
 
 ---
 
