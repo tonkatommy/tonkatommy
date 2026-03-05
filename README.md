@@ -64,18 +64,11 @@
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=tonkatommy&background=0D1117&sideNums=F8FAFC&currStreakLabel=22C55E&sideLabels=FACC15&currStreakNum=FB923C&dates=94a3b8" alt="GitHub streak" loading="lazy" />
-</p>
+![GitHub streak](https://streak-stats.demolab.com/?user=tonkatommy&background=0D1117&sideNums=F8FAFC&currStreakLabel=22C55E&sideLabels=FACC15&currStreakNum=FB923C&dates=94a3b8)
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonkatommy&bg_color=0d1117&color=facc15&line=34d399&point=fb923c&area=true" alt="Contribution activity graph" loading="lazy" />
-</p>
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonkatommy&bg_color=0d1117&color=facc15&line=34d399&point=fb923c&area=true)
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonkatommy&theme=2077" alt="Profile summary" loading="lazy" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonkatommy&theme=2077" alt="Productive time" loading="lazy" />
-</p>
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonkatommy&theme=2077) ![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonkatommy&theme=2077)
 
 ---
 
