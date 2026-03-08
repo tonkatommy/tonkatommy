@@ -60,6 +60,8 @@
   </tr>
 </table>
 
+![snake gif](https://github.com/tonkatommy/tonkatommy/blob/output/github-snake-dark.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
