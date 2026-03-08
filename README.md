@@ -60,12 +60,10 @@
   </tr>
 </table>
 
-![snake gif](https://github.com/tonkatommy/tonkatommy/blob/output/github-contribution-grid-snake-dark.svg)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonkatommy/tonkatommy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonkatommy/tonkatommy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/tonkatommy/tonkatommy/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonkatommy&bg_color=0d1117&color=facc15&line=34d399&point=fb923c&area=true)
