@@ -61,9 +61,9 @@
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
 ![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonkatommy&bg_color=0d1117&color=facc15&line=34d399&point=fb923c&area=true)
