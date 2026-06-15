@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Banner — Tommy Goodman</title>
+<style>
+  @font-face {
+    font-family: "Exo 2";
+    src: url("./fonts/Exo2-VariableFont_wght.ttf") format("truetype-variations");
+    font-weight: 100 900; font-style: normal; font-display: swap;
+  }
+  @font-face {
+    font-family: "Jura";
+    src: url("./fonts/Jura-VariableFont_wght.ttf") format("truetype-variations");
+    font-weight: 300 700; font-style: normal; font-display: swap;
+  }
+  @font-face {
+    font-family: "Agave Nerd";
+    src: url("./fonts/AgaveNerdFont-Regular.ttf") format("truetype");
+    font-weight: 400; font-style: normal; font-display: swap;
+  }
+
+  :root {
+    --bg:        #1a1816;
+    --surface:   #211e1a;
+    --raised:    #2a2620;
+    --border:    #443d31;
+    --green:     #4caf2e;
+    --green-br:  #6fd94a;
+    --yellow:    #fcd34d;
+    --orange:    #fb923c;
+    --orange-dp: #f97316;
+    --text:      #f0e9d8;
+    --muted:     #b8a986;
+    --dim:       #6f6650;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body { background: #0e0d0c; }
+
+  /* The exact banner frame that gets screenshotted */
+  .banner {
+    position: relative;
+    width: 1600px;
+    height: 500px;
+    overflow: hidden;
+    background:
+      radial-gradient(1100px 600px at 88% 18%, rgba(251,146,60,0.16), transparent 60%),
+      radial-gradient(900px 500px at 6% 96%, rgba(76,175,46,0.12), transparent 62%),
+      var(--bg);
+    font-family: "Agave Nerd", monospace;
+  }
+
+  /* dot grid texture */
+  .banner::before {
+    content: "";
+    position: absolute; inset: 0;
+    background-image: radial-gradient(rgba(240,233,216,0.06) 1.4px, transparent 1.4px);
+    background-size: 28px 28px;
+    mask-image: linear-gradient(105deg, #000 0%, #000 58%, transparent 92%);
+    -webkit-mask-image: linear-gradient(105deg, #000 0%, #000 58%, transparent 92%);
+  }
+
+  /* layout */
+  .wrap {
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 430px;
+    align-items: center;
+    padding: 0 70px;
+    gap: 40px;
+  }
+
+  /* ----- terminal window ----- */
+  .term {
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    background: linear-gradient(180deg, rgba(33,30,26,0.92), rgba(26,24,22,0.92));
+    box-shadow: 0 24px 60px rgba(0,0,0,0.55), 0 0 0 1px rgba(251,146,60,0.06);
+    overflow: hidden;
+    backdrop-filter: blur(2px);
+  }
+  .term__bar {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 15px 20px;
+    background: var(--raised);
+    border-bottom: 1px solid var(--border);
+  }
+  .lights { display: flex; gap: 9px; }
+  .lights i { width: 13px; height: 13px; border-radius: 50%; display: block; }
+  .l-r { background: #e57373; }
+  .l-y { background: var(--yellow); }
+  .l-g { background: var(--green); }
+  .term__title {
+    font-size: 18px;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+    margin-left: 6px;
+  }
+  .term__title b { color: var(--text); font-weight: 400; }
+  .term__chip {
+    margin-left: auto;
+    font-size: 14px;
+    color: var(--orange);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    font-family: "Jura", sans-serif;
+    font-weight: 600;
+  }
+
+  .term__body {
+    padding: 30px 34px 34px;
+    font-size: 25px;
+    line-height: 1.62;
+  }
+  .row { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0 12px; white-space: pre; }
+  .prompt { color: var(--green-br); }
+  .path   { color: var(--orange); }
+  .cmd    { color: var(--text); }
+  .out    { color: var(--muted); }
+  .out .hl { color: var(--yellow); }
+  .out .gn { color: var(--green-br); }
+  .ok {
+    color: var(--green-br);
+    font-size: 17px;
+    border: 1px solid rgba(76,175,46,0.45);
+    border-radius: 6px;
+    padding: 1px 9px;
+    letter-spacing: 0.08em;
+    margin-left: 6px;
+  }
+  .arrow { color: var(--dim); }
+
+  .name {
+    font-family: "Exo 2", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -0.02em;
+    color: var(--text);
+    line-height: 1.1;
+  }
+  .name .dot { color: var(--orange); }
+
+  .caret {
+    display: inline-block;
+    width: 13px; height: 26px;
+    background: var(--green-br);
+    transform: translateY(4px);
+    margin-left: 2px;
+    animation: blink 1.05s steps(1) infinite;
+  }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  /* ----- right: brand lockup ----- */
+  .brand {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 22px;
+  }
+  .disc {
+    position: relative;
+    width: 250px; height: 250px;
+  }
+  .disc img { width: 100%; height: 100%; display: block; filter: drop-shadow(0 16px 40px rgba(249,115,22,0.42)); }
+  .disc::after {
+    content: "";
+    position: absolute; inset: -16px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(251,146,60,0.28), transparent 68%);
+    z-index: -1;
+  }
+  .wordmark {
+    text-align: center;
+    line-height: 1;
+  }
+  .wordmark .wm {
+    font-family: "Exo 2", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: -0.01em;
+  }
+  .wordmark .wm .lc { color: var(--green-br); }
+  .wordmark .wm .nz { color: var(--text); }
+  .wordmark .tag {
+    margin-top: 9px;
+    font-family: "Jura", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.32em;
+    color: var(--orange);
+    text-transform: uppercase;
+  }
+
+  /* faint vertical divider rail between term and brand */
+  .rail {
+    position: absolute;
+    top: 90px; bottom: 90px;
+    right: 470px;
+    width: 1px;
+    background: linear-gradient(180deg, transparent, var(--border) 20%, var(--border) 80%, transparent);
+    z-index: 2;
+  }
+</style>
+</head>
+<body>
+  <div class="banner" id="banner">
+    <div class="rail"></div>
+    <div class="wrap">
+      <div class="term">
+        <div class="term__bar">
+          <div class="lights"><i class="l-r"></i><i class="l-y"></i><i class="l-g"></i></div>
+          <div class="term__title"><b>tommy@tinkers-nz</b>: ~/profile</div>
+          <div class="term__chip">maker of things</div>
+        </div>
+        <div class="term__body">
+          <div class="row"><span class="prompt">tommy@tinkers-nz</span><span class="cmd">:</span><span class="path">~</span><span class="cmd">$ whoami</span></div>
+          <div class="row"><span class="arrow">→ </span><span class="name">Tommy Goodman<span class="dot">.</span></span></div>
+          <div class="row"><span class="out">&nbsp;&nbsp;full-stack developer &amp; <span class="gn">maker</span> · Helensville, <span class="hl">NZ</span></span></div>
+          <div class="row" style="margin-top:14px;"><span class="prompt">tommy@tinkers-nz</span><span class="cmd">:</span><span class="path">~</span><span class="cmd">$ make ideas</span></div>
+          <div class="row"><span class="out">&nbsp;&nbsp;building websites, apps &amp; tools that <span class="hl">ship</span></span><span class="ok">ok</span><span class="caret"></span></div>
+        </div>
+      </div>
+
+      <div class="brand">
+        <div class="disc"><img src="./assets/logo-icon-gradient.png" alt="tommy tinkers NZ logo" /></div>
+        <div class="wordmark">
+          <div class="wm"><span class="lc">tommy tinkers</span> <span class="nz">NZ</span></div>
+          <div class="tag">maker of things</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
