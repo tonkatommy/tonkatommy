@@ -36,7 +36,7 @@ I build websites, apps, and small tools that solve real problems, then I make su
   <a href="https://tommytinkers.nz"><img src="https://img.shields.io/badge/tommytinkers.nz-1a1816?style=for-the-badge&logo=firefoxbrowser&logoColor=fb923c" alt="tommytinkers.nz" /></a>
   <a href="https://thomasgoodman.me"><img src="https://img.shields.io/badge/thomasgoodman.me-1a1816?style=for-the-badge&logo=safari&logoColor=fcd34d" alt="thomasgoodman.me" /></a>
   <a href="https://www.linkedin.com/in/tgnz/"><img src="https://img.shields.io/badge/LinkedIn-1a1816?style=for-the-badge&logo=linkedin&logoColor=4caf2e" alt="LinkedIn" /></a>
-  <a href="https://cal.com/tonkatommy"><img src="https://img.shields.io/badge/Book%20a%20time-1a1816?style=for-the-badge&logo=googlecalendar&logoColor=fb923c" alt="Book a time" /></a>
+  <!-- <a href="https://cal.com/tonkatommy"><img src="https://img.shields.io/badge/Book%20a%20time-1a1816?style=for-the-badge&logo=googlecalendar&logoColor=fb923c" alt="Book a time" /></a> -->
 </p>
 
 ---
@@ -45,10 +45,10 @@ I build websites, apps, and small tools that solve real problems, then I make su
 
 A few things I've made that I'm happy to point at.
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| **[tommytinkers.nz](https://tommytinkers.nz)** | My freelance front door. A warm, simple, honest site for the people I build things for. | `React` · `Vite` |
-| **[thomasgoodman.me](https://thomasgoodman.me)** | My developer portfolio. The workshop view, where I show the engineering side of what I do. | `React` · `Vite` |
+| Project                                                                                      | What it is                                                                                                     | Built with        |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **[tommytinkers.nz](https://tommytinkers.nz)**                                               | My freelance front door. A warm, simple, honest site for the people I build things for.                        | `React` · `Vite`  |
+| **[thomasgoodman.me](https://thomasgoodman.me)**                                             | My developer portfolio. The workshop view, where I show the engineering side of what I do.                     | `React` · `Vite`  |
 | **[whenuapai-key-press-manager](https://github.com/tonkatommy/whenuapai-key-press-manager)** | A desktop key sign-out and audit system. Tracks who has which keys and when, built to replace a paper logbook. | `Java` · `JavaFX` |
 
 ---
@@ -105,7 +105,15 @@ A few things I've made that I'm happy to point at.
 
 ## `tommy@tinkers-nz:~$ uptime --beyond-keyboard`
 
-Away from the screen you'll find me on coastal walks and bush tracks around Aotearoa, out on the bike, or racing 1/10th scale RC cars. Winters mean snowboarding. Most days end with my partner, the kids, and one very good dog.
+Away from the screen you'll find me on coastal walks and bush tracks around Aotearoa, out on the bike, or racing 1/10th scale RC cars. Winters mean snowboarding. Most days end with my partner, the kids, and two very good dogs.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bush%20walks-fb923c?style=for-the-badge" alt="Bush Walks" />
+  <img src="https://img.shields.io/badge/Cycling-4caf2e?style=for-the-badge&logo=strava&logoColor=1a1816" alt="Cycling" />
+  <img src="https://img.shields.io/badge/10th%20scale%20RC%20Racing-fcd34d?style=for-the-badge" alt="1/10th RC Racing" />
+  <img src="https://img.shields.io/badge/Snowboarding-f0e9d8?style=for-the-badge" alt="Snowboarding" />
+  <img src="https://img.shields.io/badge/Two%20good%20dogs-fb923c?style=for-the-badge" alt="Two good dogs" />
+</p>
 
 ---
 
@@ -116,7 +124,7 @@ Got an idea that needs making? I'm always happy to talk shop.
 <p align="left">
   <a href="https://github.com/tonkatommy"><img src="https://img.shields.io/badge/GitHub-1a1816?style=for-the-badge&logo=github&logoColor=f0e9d8" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/tgnz/"><img src="https://img.shields.io/badge/LinkedIn-1a1816?style=for-the-badge&logo=linkedin&logoColor=4caf2e" alt="LinkedIn" /></a>
-  <a href="https://cal.com/tonkatommy"><img src="https://img.shields.io/badge/Book%20a%20time-1a1816?style=for-the-badge&logo=googlecalendar&logoColor=fb923c" alt="Book a time" /></a>
+  <!-- <a href="https://cal.com/tonkatommy"><img src="https://img.shields.io/badge/Book%20a%20time-1a1816?style=for-the-badge&logo=googlecalendar&logoColor=fb923c" alt="Book a time" /></a> -->
 </p>
 
 <br />
